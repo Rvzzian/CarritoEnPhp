@@ -1,0 +1,17 @@
+Factura No: 36
+Fecha: 2024-08-04
+Usuario ID: 1006010827
+
+Productos:
+-------------------------------------------
+Producto: ax4
+Cantidad: 1
+Precio Unitario: $4,000,000.00
+Subtotal: $4,000,000.00
+-------------------------------------------
+Producto: flex
+Cantidad: 1
+Precio Unitario: $3,000,000.00
+Subtotal: $3,000,000.00
+-------------------------------------------
+Total: $7,000,000.00

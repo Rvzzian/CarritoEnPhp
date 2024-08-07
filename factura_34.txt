@@ -1,0 +1,17 @@
+Factura No: 34
+Fecha: 2024-08-02
+Usuario ID: 1006010827
+
+Productos:
+-------------------------------------------
+Producto: TTR
+Cantidad: 2
+Precio Unitario: $4,500,000.00
+Subtotal: $9,000,000.00
+-------------------------------------------
+Producto: flex
+Cantidad: 1
+Precio Unitario: $3,000,000.00
+Subtotal: $3,000,000.00
+-------------------------------------------
+Total: $12,000,000.00

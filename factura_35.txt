@@ -1,0 +1,12 @@
+Factura No: 35
+Fecha: 2024-08-03
+Usuario ID: 1006010827
+
+Productos:
+-------------------------------------------
+Producto: flex
+Cantidad: 2
+Precio Unitario: $3,000,000.00
+Subtotal: $6,000,000.00
+-------------------------------------------
+Total: $6,000,000.00
