@@ -1,5 +1,6 @@
 <?php
 session_start();
+//informacion de ola db que traera desde otro php
 require_once "db.php";
 
 $conexion = new mysqli(SERVER, USUARIO, CONTRASEÑA, DB);
